@@ -1,3 +1,3 @@
 CONTRIBUTORS : 
-1. Abhay kumar (abhayguptaiitg45@gmail.com)
+1. Abhay kumar (k.abhay@iitg.ac.in)
    
