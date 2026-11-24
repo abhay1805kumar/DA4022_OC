@@ -1,0 +1,4 @@
+torch
+pytest
+nvidia-ml-py   # GPU power/energy sampling
+pandas         # summarising results
