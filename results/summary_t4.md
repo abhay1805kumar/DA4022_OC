@@ -12,5 +12,5 @@ Status: `partial`. Energy = NVML power-sampling estimate (idle not subtracted).
 | 16 | 51.24 | 0.95x | 21.4 | 504 | 3.48 |
 | 32 | 59.81 | 0.82x | 18.4 | 456 | 4.04 |
 
-Raw rows: `results_t4_kaggle.jsonl` (add your downloaded Kaggle file here).
+Raw rows: `results_t4_kaggle.jsonl`.
 Baseline latency varied 48.2–49.6 ms across runs (~3%), about the size of the latency gain.
